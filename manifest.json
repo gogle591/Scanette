@@ -1,0 +1,52 @@
+{
+    "name": "Scannete TP SAMP",
+    "short_name": "Scannete",
+    "description": "Native mobile application that scan the bar codes",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "type": "image/ico"
+        },
+
+        {
+            "src": "icons/icon-32.png",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-94.png",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-96.png",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-128.png",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-168.png",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-180.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },{
+            "src": "icons/icon-192.png",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-256.png",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-512.png",
+            "type": "image/png"
+        },
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "theme_color": "#B12A34",
+    "background_color": "#B12A34"
+}
